@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://eggie5.github.io/bookshelf/post/good-to-great/</loc>
+    <lastmod>2017-04-16T21:28:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eggie5.github.io/bookshelf/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eggie5.github.io/bookshelf/</loc>
+    <lastmod>2017-04-16T21:28:41-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eggie5.github.io/bookshelf/post/</loc>
+    <lastmod>2017-04-16T21:28:41-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eggie5.github.io/bookshelf/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

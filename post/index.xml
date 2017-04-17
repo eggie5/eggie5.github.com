@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://eggie5.github.io/bookshelf/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Apr 2017 21:28:41 -0700</lastBuildDate>
+    
+	<atom:link href="https://eggie5.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>good to great</title>
+      <link>https://eggie5.github.io/bookshelf/post/good-to-great/</link>
+      <pubDate>Sun, 16 Apr 2017 21:28:41 -0700</pubDate>
+      
+      <guid>https://eggie5.github.io/bookshelf/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.!</description>
+    </item>
+    
+  </channel>
+</rss>
